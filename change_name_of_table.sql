@@ -1,0 +1,1 @@
+EXEC sp_rename 'store' , 'stores'; -- change a name of table
